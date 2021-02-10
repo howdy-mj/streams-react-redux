@@ -1,3 +1,9 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "테스트",
+      "description": "테스트 데이터",
+      "id": 1
+    }
+  ]
 }
